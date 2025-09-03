@@ -6,7 +6,7 @@ Phi-4 was fine-tuned by cosmopedia dataset (https://huggingface.co/datasets/Hugg
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AyeniOluwatosinOlawale/My_finetuned_Phi-4
 
 ## 📌 Project Overview
-This project demonstrates a fine-tuned **[Model Name]** using the **[Dataset Name]**.  
+This project demonstrates a fine-tuned **[My_finetuned_Phi-4]** using the **[cosmopedia dataset ]**.  
 It performs **[task: e.g., text generation, classification, summarization]** efficiently.
 
 ## 💻 Model & Dataset Links
